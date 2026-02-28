@@ -12,25 +12,6 @@ To build a robust regression model that predicts housing prices with strong gene
 
 
 
-##  Project Structure
-
-house-price-ml-pipeline/
-│
-├── notebooks/
-│   └── eda.ipynb
-│
-├── src/
-│   ├── train.py
-│   ├── evaluate.py
-│
-├── models/
-│   └── model.pkl
-│
-├── requirements.txt
-└── README.md
-
-
-
 ##  Exploratory Data Analysis
 - Checked missing values
 - Analyzed feature distributions
