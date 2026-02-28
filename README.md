@@ -1,18 +1,18 @@
-# 🏠 House Price Prediction 
+#  House Price Prediction 
 
-## 📌 Project Overview
+##  Project Overview
 This project builds an end-to-end Machine Learning pipeline to predict house prices using regression techniques.  
 The workflow includes data preprocessing, feature scaling, model training, hyperparameter tuning, and evaluation.
 
 This project demonstrates production style ML structure using Scikit learn Pipelines.
 
 
-## 🎯 Objective
+##  Objective
 To build a robust regression model that predicts housing prices with strong generalization performance using cross-validation and hyperparameter optimization.
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
 house-price-ml-pipeline/
 │
@@ -31,7 +31,7 @@ house-price-ml-pipeline/
 
 
 
-## 🔍 Exploratory Data Analysis
+##  Exploratory Data Analysis
 - Checked missing values
 - Analyzed feature distributions
 - Identified correlation patterns
@@ -39,7 +39,7 @@ house-price-ml-pipeline/
 
 
 
-## ⚙️ Machine Learning Pipeline
+##  Machine Learning Pipeline
 
 The model pipeline includes:
 
@@ -56,20 +56,20 @@ Pipeline ensures:
 
 
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 Metrics Used:
 - RMSE (Root Mean Squared Error)
 - R² Score
 
 Achieved:
-- R² Score: XX
-- RMSE: XX
+- R² Score: 0.89(89%)
+- RMSE: 2.81
 
 
 
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -79,7 +79,7 @@ Achieved:
 - Seaborn
 
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Compare multiple regression models
 - Add feature importance visualization
